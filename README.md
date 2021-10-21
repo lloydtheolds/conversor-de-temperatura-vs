@@ -1,0 +1,1 @@
+## Console application de um conversor de temperatura em c# (pratica de linguagem e implementação de metodos/funções)
